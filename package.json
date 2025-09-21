@@ -1,0 +1,19 @@
+{
+  "name": "oneclickkits",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.4.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "stripe": "12.12.0",
+    "axios": "1.4.0",
+    "cookie": "0.5.0",
+    "micro": "9.3.4"
+  }
+}

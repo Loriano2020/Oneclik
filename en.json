@@ -1,0 +1,13 @@
+{
+  "heroTitle": "Fast social kits — ready in minutes",
+  "heroSubtitle": "Generate thumbnails, captions and short clips automatically.",
+  "emailLabel": "Email",
+  "trialExplain": "14-day free trial — card required to confirm identity. You won't be charged before trial ends.",
+  "startButton": "Start free trial",
+  "loading": "Processing...",
+  "successTitle": "Welcome!",
+  "successSubtitle": "Your trial started. Check your email.",
+  "cancelTitle": "Cancelled",
+  "cancelSubtitle": "You cancelled the flow.",
+  "errorTry": "There was an error. Try again later."
+}

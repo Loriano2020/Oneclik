@@ -1,0 +1,4 @@
+html,body { margin:0; padding:0; box-sizing:border-box; }
+body { font-family: Inter, Arial, sans-serif; background:#f7f7f8; color:#111; }
+input { border:1px solid #ddd; border-radius:6px; }
+button { background:#111; color:#fff; border:none; border-radius:6px; cursor:pointer; }
